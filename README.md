@@ -2,7 +2,7 @@
 
 ## 🌟 Quick Access Links
 Explore the project details using these resources:
-- 📊 **[PDF Report](./ASSIGNMENT%206%20%26%207%20KALAIMANI%20MUTHU.pdf)**: Summary of insights and visualizations.
+- 📊 **[PPT](./ASSIGNMENT%206%20%26%207%20KALAIMANI%20MUTHU.pdf)**: Summary of insights and visualizations.
 - 📓 **[Excel Analysis 1](./ASSIGNMENT%206%20KALAIMANI%20MUTHU.xlsx)**: Data and calculations for Assignment 6.
 - 📓 **[Excel Analysis 2](./ASSIGNMENT%207%20KALAIMANI%20MUTHU.xlsx)**: Data and calculations for Assignment 7.
 
